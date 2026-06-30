@@ -1,0 +1,45 @@
+KangYu EnTech V5 - Certificate Files Integrated
+
+Integrated uploaded certificate files:
+- Waste gas treatment design service certificate image
+- Patent certificate PDF: 8 rendered pages + original PDF
+- ISO certificate PDF: 6 rendered pages + original PDF
+- CE certificate: Activated Carbon Adsorption Box + original PDF
+- CE certificate: Pneumatic Cyclone Spray Tower + original PDF
+- CE certificate: Pyrolysis Cleaning Furnace + original PDF
+
+Website updates:
+1. Rebuilt certificates.html as a real certificate gallery.
+2. Added certificate category filters: All / ISO / CE / Patents / Qualification.
+3. Added original certificate files under files/certificates/.
+4. Added rendered webp certificate images under images/certificates/.
+5. Added certificate preview section to homepage.
+6. Added certificate-gallery-data.json for future maintenance.
+7. certificates.html now has one K Assistant and homepage-consistent footer.
+
+Assets:
+- Rendered certificate images: 18
+- Original certificate files: 6
+- Certificate gallery items: 8
+
+Integrity:
+- Real HTML pages checked: 25
+- Missing src references: 0
+- Broken local href links: 0
+- Assistant issues: 0
+- Footer issues: 0
+
+src issues:
+None
+
+href issues:
+None
+
+assistant issues:
+None
+
+footer issues:
+None
+
+Note:
+The template file under templates/ is intentionally excluded from page-level assistant/footer checks.

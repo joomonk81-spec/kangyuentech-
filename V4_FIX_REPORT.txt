@@ -1,0 +1,34 @@
+KangYu EnTech V4 Fix Report
+
+Based on uploaded issue summary:
+1. Added missing certificates page: certificates.html
+2. Added missing news page: news.html
+3. Added homepage News & Exhibitions preview section.
+4. Patched navigation dropdown stability: hover bridge, larger hit area, clickable mega links.
+5. Added News to desktop/mobile navigation.
+6. Added Certificates and News inside About dropdown.
+7. Removed duplicate floating K assistant blocks and rebuilt a single assistant on each real page.
+8. Updated footer links with News and Certificates.
+
+Integrity check:
+- HTML files: 26
+- Missing src references: 0
+- Broken local href links: 0
+- Real pages with duplicate/missing assistants: 0
+- Real pages missing footer: 0
+
+src issues:
+None
+
+href issues:
+None
+
+assistant issues:
+None
+
+footer issues:
+None
+
+Manual check recommended:
+Open index.html, faq.html, contact.html, news.html, certificates.html.
+Hover each navigation dropdown and click all mega-menu links.

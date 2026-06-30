@@ -1,0 +1,26 @@
+KangYu EnTech V3 - Five Key Case Detail Pages
+
+Added / expanded 5 key case detail pages:
+- Zhengzhou BYD
+- XCMG Group
+- Jiangxi GEM Recycling Park
+- CGN Juner Shanghai New Materials
+- Guangzhou Wanhongda Group
+
+Updated:
+- projects.html includes a key-case link mapping script.
+- The 5 key case cards will jump to their detail pages when clicked.
+- cases/case-detail-template.html updated as reusable template.
+- FIVE-KEY-CASE-PAGES-README.txt added.
+
+Case detail page count: 5
+Projects page key case detail links included: 5/5
+Missing real src image/file references: 0
+None
+
+Note:
+Video files are not included yet. The detail pages reserve:
+- installation-video.mp4
+- operation-video.mp4
+- effect-video.mp4
+under /videos/cases/{case-slug}/

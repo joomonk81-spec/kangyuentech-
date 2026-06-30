@@ -1,0 +1,98 @@
+[
+  {
+    "category": "Enterprise Qualification",
+    "title": "Waste Gas Treatment Design Service Certificate - Level I",
+    "subtitle": "Certificate valid from 2025-04-24 to 2028-04-23",
+    "image": "images/certificates/design-service-level-1.webp",
+    "file": "files/certificates/waste-gas-treatment-design-service-certificate.jpg",
+    "tags": [
+      "Design Service",
+      "Level I",
+      "Waste Gas Treatment"
+    ]
+  },
+  {
+    "category": "ISO Management Systems",
+    "title": "ISO 9001 Quality Management System",
+    "subtitle": "Manufacturing and sales of environmental protection equipment",
+    "image": "images/certificates/iso-p02.webp",
+    "file": "files/certificates/iso-management-system-certificates.pdf",
+    "tags": [
+      "ISO 9001",
+      "Quality",
+      "2025-2028"
+    ]
+  },
+  {
+    "category": "ISO Management Systems",
+    "title": "ISO 14001 Environmental Management System",
+    "subtitle": "Environmental management activities related to manufacturing and sales",
+    "image": "images/certificates/iso-p04.webp",
+    "file": "files/certificates/iso-management-system-certificates.pdf",
+    "tags": [
+      "ISO 14001",
+      "Environment",
+      "2025-2028"
+    ]
+  },
+  {
+    "category": "ISO Management Systems",
+    "title": "ISO 45001 Occupational Health & Safety Management System",
+    "subtitle": "Occupational health and safety management system certificate",
+    "image": "images/certificates/iso-p06.webp",
+    "file": "files/certificates/iso-management-system-certificates.pdf",
+    "tags": [
+      "ISO 45001",
+      "Safety",
+      "2025-2028"
+    ]
+  },
+  {
+    "category": "CE / Machinery Directive",
+    "title": "CE - Activated Carbon Adsorption Box",
+    "subtitle": "2006/42/EC Machinery Directive Annex VIII",
+    "image": "images/certificates/ce-carbon-p01.webp",
+    "file": "files/certificates/ce-activated-carbon-adsorption-box.pdf",
+    "tags": [
+      "CE",
+      "Activated Carbon",
+      "Valid to 2030"
+    ]
+  },
+  {
+    "category": "CE / Machinery Directive",
+    "title": "CE - Pneumatic Cyclone Spray Tower",
+    "subtitle": "2006/42/EC Machinery Directive Annex VIII",
+    "image": "images/certificates/ce-cyclone-p01.webp",
+    "file": "files/certificates/ce-pneumatic-cyclone-spray-tower.pdf",
+    "tags": [
+      "CE",
+      "Cyclone Spray Tower",
+      "Valid to 2030"
+    ]
+  },
+  {
+    "category": "CE / Machinery Directive",
+    "title": "CE - Pyrolysis Cleaning Furnace",
+    "subtitle": "2006/42/EC Machinery Directive Annex VIII",
+    "image": "images/certificates/ce-pyrolysis-p01.webp",
+    "file": "files/certificates/ce-pyrolysis-cleaning-furnace.pdf",
+    "tags": [
+      "CE",
+      "Pyrolysis Furnace",
+      "Valid to 2030"
+    ]
+  },
+  {
+    "category": "Patent Certificates",
+    "title": "Utility Model Patent Certificate Collection",
+    "subtitle": "8 patent certificate pages for environmental equipment technologies",
+    "image": "images/certificates/patent-p01.webp",
+    "file": "files/certificates/patent-certificates.pdf",
+    "tags": [
+      "Patents",
+      "8 Pages",
+      "Utility Model"
+    ]
+  }
+]
